@@ -3,3 +3,5 @@
 hotfix line VNEZAPNO!
 1 lin iss53
 2 line iss53
+
+stroka
