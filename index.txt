@@ -5,3 +5,4 @@ hotfix line VNEZAPNO!
 2 line iss53
 
 stroka
+iss53 line
