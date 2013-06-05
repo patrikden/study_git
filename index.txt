@@ -7,4 +7,5 @@ hotfix line VNEZAPNO!
 stroka
 iss53 line
 
+ISS53_ONE_MORE
 MASTER_ONE_MORE
